@@ -43,6 +43,7 @@
 - [Akshay Solanki](https://github.com/AkshayS96)
 - Tech Performer
 - [imbassi][https://github.com/imbassi]
+- [Pasan Jayawickrama][https://github.com/pasanjayawickrama]
 - [Jakeliny Gracielly] (https://github.com/jakeliny)
 - [Parth Manhas](https://github.com/ishouldcode)
 - [Abhishek P](https://github.com/Abhishek-Prem)
